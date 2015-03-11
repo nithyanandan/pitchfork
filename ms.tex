@@ -219,9 +219,24 @@ Foreground emission is currently the primary limitation to detection of redshift
 
 \section{Wide--Field Effects in Delay Spectrum}\label{sec:wide-field}
 
-\citet{thy15} have described in detail the effects of wide--field measurements as seen in the baseline--based delay spectra. The most prominent signature resembles a {\it pitchfork}--shape where the 
+\citet{thy15} have described in detail the effects of wide--field measurements as seen in the delay spectra of interferometer {\it visibilities}. Here, we give a brief overview of the wide--field signature predicted therein. 
 
-Throughout the paper, we follow the conventions used in \citet{thy15}. 
+The delay spectrum for a baseline vector, $\boldsymbol{b}$, is given by \citep{par12a,par12b,thy13,thy15}: 
+\begin{align}
+  \tilde{V}_b(\tau) &\equiv \int V_b(f)\,W(f)\,e^{i2\pi f\tau}\,\dif f,
+\end{align}
+with interferometer visibilities, $V_b(f)$, given by \citep{van34,zer38,tho01}:
+\begin{align} 
+  V_b(f) &= \iint\limits_\textrm{sky} A(\hat{\boldsymbol{s}},f)\,I(\hat{\boldsymbol{s}},f)\,W_\textrm{i}(f)\,e^{-i2\pi f\frac{\boldsymbol{b}\cdot\hat{\boldsymbol{s}}}{c}}\,\dif\Omega \\
+         &= \iint\limits_\textrm{sky} \frac{A(\hat{\boldsymbol{s}},f)\,I(\hat{\boldsymbol{s}},f)}{\sqrt{1-l^2-m^2}}\,W_\textrm{i}(f)\,e^{-i2\pi f\frac{\boldsymbol{b}\cdot\hat{\boldsymbol{s}}}{c}}\,\dif l\,\dif m, 
+\end{align}
+where, $I(\hat{\boldsymbol{s}},f)$ and $A(\hat{\boldsymbol{s}},f)$ are the sky brightness and antenna's directional power pattern, respectively, as a function of frequency ($f$) and direction on the sky denoted by the unit vector $\hat{\boldsymbol{s}}\equiv (l,m,n)$, $W_\textrm{i}(f)$ denotes instrumental bandpass weights, $W(f)$ is a spectral weighting function that controls the transfer function in the delay transform, $\dif\Omega=(1-l^2-m^2)^{-1/2}\,\dif l\,\dif m$ is the solid angle element to which $\hat{\boldsymbol{s}}$ is the unit normal vector, and $c$ is the speed of light. $\tau=\boldsymbol{b}\cdot\hat{\boldsymbol{s}}/c$ is the geometric delay between antenna pairs measured relative to the zenith and provides a mapping to position on the sky.
+
+In wide--field measurements, the steep rise in subtended solid angle near the horizon for a fixed delay bin size significantly enhances the integrated emission near the horizon delay limits. This is found to be true for diffuse emission even on wide antenna spacings because their foreshortening towards the horizon makes them sensitive to large angular scales that match the inverse of their foreshortened lengths. 
+
+Typically, an antenna is most sensitive towards its primary field of view relative to the rest of the sky, which in conjunction with the aforementioned wide--field effects results in a characteristic ``pitchfork'' signature in the delay spectrum. 
+
+Although there is marginal evidence for presence of this feature in the {\it zenith} snapshot presented in \citet{thy15}, the high level of thermal noise prevented a robust confirmation. In this paper, we confirm the {\it pitchfork} signature using deeper data from the MWA.
 
 \section{The Murchison Widefield Array Observations}\label{sec:MWA}
 
