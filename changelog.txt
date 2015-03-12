@@ -1,3 +1,12 @@
+From aacb3ef:
+============
+
+In ms.tex,
+
+(*) Add preliminary section 5 "Summary"
+
+Git rename changelot.txt to changelog.txt
+
 From d121706:
 ============
 
