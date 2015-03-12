@@ -1,3 +1,12 @@
+From 85866d7:
+============
+
+In ms.tex,
+
+(*) Add preliminary section 1 "Introduction"
+(*) Make minor changes to "Rseults" section
+(*) Make minor changes to "MWA Observations" section
+
 From a058e6d:
 ============
 
