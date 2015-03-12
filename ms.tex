@@ -152,7 +152,7 @@ A.~R.~Neben\MIT,
 D.~Oberoi\Tata, 
 A.~R.~Offringa\ANU$^,$\CAASTRO, 
 S.~M.~Ord\Curtin$^,$\CAASTRO,
-Sourabh Paul\RRI,
+Sourabh~Paul\RRI,
 B.~Pindor\UMelbourne$^,$\CAASTRO,
 J.~C.~Pober\UW,
 T.~Prabu\RRI, 
@@ -207,7 +207,7 @@ J.~S.~B.~Wyithe\UMelbourne$^,$\CAASTRO
 
 \begin{abstract}
 
-Foreground emission is currently the primary limitation to detection of redshifted H{\sc i} emission from the epoch of reionization. Modern radio telescopes that target this cosmological signal are typically wide--field instruments. Through modeling of delay spectra measured between antenna pairs, it has recently emerged that wide--field measurements imprint a characteristic {\it pitchfork}--shaped signature in this Fourier domain. It is characterized by enhanced power from foreground emission mapped to regions near the horizon and plays a significant role in determining the contamination of the cosmological H{\sc i} signal. With MWA data sensitivity improved by coherently averaging snapshots aligned in local sidereal time across different observing nights, we confirm the prediction from modeling at $>5\sigma$ level. 
+Foreground emission is currently the primary limitation to detection of redshifted H{\sc i} emission from the epoch of reionization. Modern radio telescopes that target this cosmological signal are typically wide--field instruments. Through modeling of delay spectra measured between antenna pairs, it has recently emerged that wide--field measurements imprint a characteristic {\it pitchfork}--shaped signature in this Fourier domain. It is characterized by enhanced power from foreground emission mapped to regions near the horizon and plays a significant role in determining the contamination of the cosmological H{\sc i} signal. With MWA data sensitivity improved by coherently averaging snapshots aligned in local sidereal time across different observing nights, we confirm the prediction from modeling at $>10\sigma$ level. 
 
 \end{abstract}
  
@@ -240,11 +240,31 @@ Although there is marginal evidence for presence of this feature in the {\it zen
 
 \section{The Murchison Widefield Array Observations}\label{sec:MWA}
 
-The MWA observations and data analysis used in this study are already described in \citet{thy15}. In order to reduce thermal fluctuations while maintaining coherence, it is essential to average independent data sets obtained over the same region of sky with identical beamformer settings. Hence, we select a subset of MWA snapshots each of duration 112~seconds obtained over different nights which are aligned to within 72~seconds of each other in {\it local sidereal time} (LST) around a mean LST of 0.04~hours with the MWA tile beam pointed at zenith. The database contains 14 snapshots satisfying these criteria. Two of these snapshots were found to contain amplitude and phase artifacts for a significant duration across different baselines. Hence, they have been excluded from our analysis. 
+The MWA instrument configuration, EoR observations, and data analysis used in this study are already described in \citet{thy15}. In order to reduce thermal fluctuations while maintaining coherence, it is essential to average independent data sets obtained over the same region of sky with identical beamformer settings. Hence, we select a subset of MWA snapshots each of duration 112~seconds obtained over different nights which are aligned to within 72~seconds of each other in {\it local sidereal time} (LST) around a mean LST of 0.04~hours with the MWA tile beam pointed at zenith. The database contains 14 snapshots satisfying these criteria. Two of these snapshots were found to contain amplitude and phase artifacts for a significant duration across different baselines. Hence, they have been excluded from our analysis. 
 
 The delay spectra of the rest of the snapshots were verified to be coherent in their amplitudes and phases. These complex valued delay spectra from independent snapshots are averaged together to lower thermal fluctuations without losing coherence from foreground contributions. The results are discussed below.
 
 \section{Results}\label{sec:results}
+
+Figure~\ref{fig:avg-fhd-delay-spectra} shows the delay spectra obtained by averaging LST aligned delay spectra from individual snapshots from different nights. The dynamic range (in power spectrum units) in the averaged data is $\gtrsim 10$ higher compared to that in the {\it zenith} snapshot used in \citet{thy15}, and is consistent with the improvement expected in averaging 12 independent snapshots. With this improvement in sensitivity, the foreground power near the horizon limits (white dotted lines) has become $\gtrsim 10$ times more prominent. We also note that faint horizontal features appear at $\tau = \pm 0.78\,\mu$s also as a result of lowering thermal fluctuations which were not seen earlier in the individual snapshots presented in \citet{thy15}, thus confirming effective lowering of thermal fluctuations. We identify these faint features as the response in delay space of the MWA coarse band edges flagged periodically every 1.28~MHz. 
+
+\begin{figure}[htb]
+\centering
+\includegraphics[width=\linewidth]{multi_baseline_CLEAN_fhd_avg_visibilities_amplitudes_185.0_MHz_30.7_MHz.eps}
+\caption{Amplitudes of delay power spectra obtained by averaging 12 snapshots of LST aligned MWA data. The $x$--axis, denoted by $|\boldsymbol{b}|$ (and $k_\perp$), represents angular (and spatial) scales in the plane of the sky while the $y$--axis, shown in $\tau$ and $k_\parallel$, denotes the spatial scales along the line of sight. White dotted lines are the horizon delay limits. Power near the horizon limits caused by wide--field effects are prominent. Faint horizontal features at $\tau=\pm 0.78\,\mu$s are visible due to effective lowering of thermal fluctuations and are the response to periodic coarse band edge flagging of MWA data every 1.28~MHz. \label{fig:avg-fhd-delay-spectra}}
+\end{figure}
+
+Figure~\ref{fig:3-baseline-comparison-delay-spectra} shows the amplitudes of averaged delay spectra on three selected baseline vectors oriented northward. Data and noiseless simulations (using foreground and instrument models described in \citet{thy15}) are shown in black and red respectively. The horizontal dotted black line denotes {\it rms} of thermal fluctuations estimated from data. The vertical dashed line denotes horizon delay limits, and the vertical dot--dashed lines denote delays at which the responses to coarse band edge flagging are expected.
+
+\begin{figure}[htb]
+\centering
+\includegraphics[width=\linewidth]{3_baseline_comparison_CLEAN_fhd_avg_visibilities_amplitudes_185.0_MHz_30.7_MHz.eps}
+\caption{Delay power spectra amplitudes on three antenna spacings oriented northward obtained by coherent averaging of 12 snapshots aligned in LST. The data and models are shown in black and red respectively. The antenna spacings are 83.5~m ({\it top}), 104.2~m ({\it middle}), and 171~m ({\it bottom}). The horizontal dotted line is the {\it rms} of thermal fluctuations. The vertical dashed lines denote the horizon delay limits. The vertical dot--dashed lines at $\tau=\pm 0.78\,\mu$s correspond to grating responses of periodic flagging of bandpass at intervals of 1.28~MHz. The dynamic range has increased by a factor $\sim 10$ as a result of coherent averaging relative to that in \citet{thy15}. The peaks close to the horizon delay limits are distinctly visible at $\sim 10$--1000~$\sigma$ levels. Differences between model and data are primarily attributed to uncertainties in the foreground model and the MWA tile power pattern. \label{fig:3-baseline-comparison-delay-spectra}}
+\end{figure}
+
+The delay power spectra morphologies from data and modeling are remarkably similar even while ignoring any differences in the amplitude scales. We attribute these differences to uncertainties in the foreground model, the MWA tile power pattern, thermal fluctuations, and other uncertainties noted in \citet{thy15}. 
+
+We focus on the level of foreground power near the horizon limits in the data. Typically, the power near the negative horizon limit is seen with a signal--noise ratio (SNR) $\sim$~10--100, while that around the positive horizon limit is $\sim$~100--1000. The models of \citet{thy15} have noted that the foreground power near the horizon limits is due to the nature of wide--field measurements, and is predominantly composed of diffuse emission especially on baseline lengths $\lesssim 100$~m. Based on the morphological agreement between the data and the models, we conclude the features noted in our current analysis are a robust detection of the {\it pitchfork} signature predicted in \citet{thy15}.
 
 \section{Summary}\label{sec:summary}
 

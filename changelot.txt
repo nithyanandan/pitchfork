@@ -1,3 +1,16 @@
+From d121706:
+============
+
+In ms.tex,
+
+(*) Add preliminary section 4 "Results"
+
+In eor.bib,
+
+(*) Update Offringa et al.(2015) reference
+
+Update figures 1 and 2
+
 From b8d7b84:
 ============
 
