@@ -1,9 +1,17 @@
+From a058e6d:
+============
+
+In changelog.txt,
+
+(*) Add info to changelog of previous commit aacb3ef
+
 From aacb3ef:
 ============
 
 In ms.tex,
 
 (*) Add preliminary section 5 "Summary"
+(*) Make minor changes to abstract
 
 Git rename changelot.txt to changelog.txt
 
