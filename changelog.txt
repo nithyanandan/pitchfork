@@ -1,3 +1,15 @@
+From 25a1e5d:
+============
+
+Add new figure to git version control
+
+In ms.tex,
+
+(*) Modify figure 1
+(*) Change text and caption accordingly
+(*) Change double hyphens to single hyphens
+(*) Make minor changes
+
 From 85866d7:
 ============
 
