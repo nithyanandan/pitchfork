@@ -1,3 +1,10 @@
+From ac1c778:
+============
+
+In ms.tex,
+
+(*) Modify abstract and adjust all sections accordingly
+
 From 61bf009:
 ============
 
