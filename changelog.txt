@@ -1,3 +1,11 @@
+From af1b5c4:
+============
+
+In ms.tex,
+
+(*) Reorganize list of authors and affiliations
+(*) Minor changes in text
+
 From ac1c778:
 ============
 
