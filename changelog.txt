@@ -1,3 +1,14 @@
+From 61bf009:
+============
+
+In ms.tex,
+
+(*) Change HI to H I
+
+In eor.bib,
+
+(*) Update bibtex reference to Taylor et al.(1999)
+
 From 25a1e5d:
 ============
 
