@@ -1,3 +1,10 @@
+From 6d0e4e6:
+============
+
+In ms.tex,
+
+(*) Add Lars Hernquist as author
+
 From af1b5c4:
 ============
 
