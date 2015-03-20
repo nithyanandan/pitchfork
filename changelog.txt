@@ -1,3 +1,12 @@
+From 4b4904d:
+============
+
+In ms.tex,
+
+(*) Change title
+(*) Reorder sentences in abstract
+(*) Add formula for delay power spectrum in section 2
+
 From 6d0e4e6:
 ============
 
