@@ -1,3 +1,10 @@
+From 9ecd795:
+============
+
+In ms.tex,
+
+(*) Remove Bryan Gaensler as co-author and reorder affiliations
+
 From 4b4904d:
 ============
 
