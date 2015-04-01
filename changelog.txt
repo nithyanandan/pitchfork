@@ -1,3 +1,10 @@
+From ed26e72:
+============
+
+In ms.tex,
+
+(*) Add a sentence at the beginning of the Abstract
+
 From 9ecd795:
 ============
 
