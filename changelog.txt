@@ -1,3 +1,10 @@
+From 097d9e5:
+============
+
+In ms.tex,
+
+(*) Add emphasis on critical input for HERA and SKA in the Abstract
+
 From ed26e72:
 ============
 
