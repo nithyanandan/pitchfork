@@ -1,3 +1,10 @@
+From 79304d5:
+============
+
+In ms.tex,
+
+(*) Add emphasis on critical input for HERA and SKA in the Introduction
+
 From 097d9e5:
 ============
 
