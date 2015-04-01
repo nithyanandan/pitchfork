@@ -1,3 +1,12 @@
+From dbca120:
+============
+
+In ms.tex,
+
+(*) Add a sentence on dish-shaped yielding best response in the section
+on wide-field effects
+(*) Minor change to a sentence in the Results section
+
 From 79304d5:
 ============
 
