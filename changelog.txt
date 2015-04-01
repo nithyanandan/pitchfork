@@ -1,3 +1,11 @@
+From 14c8919:
+============
+
+In ms.tex,
+
+(*) Modify Summary section to add more emphasis on the need to confirm 
+the pitchfork signature
+
 From dbca120:
 ============
 
