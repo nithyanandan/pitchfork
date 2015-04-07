@@ -1,9 +1,21 @@
+From af1b5c4:
+============
+
+In ms.tex,
+
+(*) Modify Introduction
+
+In eor.bib,
+
+(*) Add references to Di Matteo et al. 2004, Gnedin & Shaver 2004,
+Santos et al. 2005, Wang et al. 2006, and Gleser et al. 2008.
+
 From e637668:
 ============
 
 In ms.tex,
 
-(*) Modify abstract
+(*) Modify Abstract
 
 From 14c8919:
 ============
