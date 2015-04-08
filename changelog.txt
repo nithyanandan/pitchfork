@@ -1,3 +1,10 @@
+From 5b62b56:
+============
+
+In ms.tex,
+
+(*) Modify Section 3
+
 From 7450235:
 ============
 
