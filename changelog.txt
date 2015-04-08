@@ -1,3 +1,11 @@
+From 7450235:
+============
+
+In ms.tex,
+
+(*) Modify Section 2
+(*) Minor rearrangement of citations in the Introduction
+
 From af1b5c4:
 ============
 
