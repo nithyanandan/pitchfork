@@ -1,3 +1,10 @@
+From e188012:
+============
+
+In ms.tex,
+
+(*) Minor change in Summary
+
 From 7094fca:
 ============
 
