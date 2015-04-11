@@ -1,3 +1,10 @@
+From 68b5475:
+============
+
+In ms.tex,
+
+(*) Minor changes to Introduction
+
 From 1d3cd47:
 ============
 
