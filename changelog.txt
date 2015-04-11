@@ -1,3 +1,10 @@
+From 5b99dfd:
+============
+
+In ms.tex,
+
+(*) Change repeated references to Thyagarajan et al. (2015) to Paper I
+
 From 758a6e2:
 ============
 
