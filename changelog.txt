@@ -1,3 +1,14 @@
+From 1d3cd47:
+============
+
+In ms.tex,
+
+(*) Update Section 5
+
+In eor.bib,
+
+(*) Update reference to MWACS paper
+
 From 03449a2:
 ============
 
