@@ -1,3 +1,10 @@
+From 03f54dc:
+============
+
+In ms.tex,
+
+(*) Update ms.bbl included in ms.tex
+
 From 68b5475:
 ============
 
