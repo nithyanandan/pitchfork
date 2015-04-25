@@ -1,3 +1,12 @@
+From 6501829:
+============
+
+In ms.tex,
+
+(*) Make changes suggested by Melanie
+(*) Minor changes in Introduction
+(*) Chnage GLEAM author to Wayth
+
 From 03f54dc:
 ============
 
