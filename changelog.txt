@@ -1,3 +1,11 @@
+From 1a02743:
+============
+
+In ms.tex,
+
+(*) Cite private communication from Randall Wayth
+(*) Update the included ms.bbl info
+
 From be1fb7e:
 ============
 
