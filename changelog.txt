@@ -1,3 +1,13 @@
+From faebaa2:
+============
+
+Add renamed figures f1.eps, f2.eps to git repo
+
+In ms.tex,
+
+(*) Replace first figure to f1.eps
+(*) Replace second figure to f2.eps
+
 From bf31f88:
 ============
 
