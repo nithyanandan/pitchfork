@@ -1,3 +1,11 @@
+From bf31f88:
+============
+
+In changelog.txt,
+
+(*) Forgot to mention in earlier commit that some SKA specs were also
+added in Summary section
+
 From 02433ee:
 ============
 
