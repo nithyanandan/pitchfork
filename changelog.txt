@@ -1,3 +1,8 @@
+From be1fb7e:
+============
+
+Add cover_letter_1.txt to git repo
+
 From faebaa2:
 ============
 
