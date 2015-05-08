@@ -1,3 +1,14 @@
+From 84ebc81:
+============
+
+In eor.bib,
+
+(*) Update bibliography entry of Thyagarajan et al.(2015)
+
+In ms.tex,
+
+(*) Update bibliography entry of Thyagarajan et al.(2015)
+
 From b0f14b7:
 ============
 
