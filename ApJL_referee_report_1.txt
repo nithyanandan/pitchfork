@@ -1,0 +1,38 @@
+Dear Dr. Thyagarajan,
+
+Your paper was sent for review to an expert referee who has returned the comments below. The referee has a number of concerns about your work and makes many recommendations for improvements in the manuscript. The referee also recommends strongly that this paper should only be reconsidered for Part 1 of The Astrophysical Journal (main ApJ), instead of Letters. 
+
+The report appears reasonable to me and I urge you to take the referee's comments fully into account in preparing a revised version of your paper for publication in ApJ (Part 1). Please note that resubmissions to the main ApJ are due within 6 months.
+
+Please confirm as soon as possible by replying to this email that we can transfer your manuscript (including the referee's report and with no change in original submission date) to the main journal. Further instructions on resubmission will then be sent to you by the main ApJ editorial office.
+
+
+
+Sincerely,
+
+Luis C. Ho
+Associate Editor
+The Astrophysical Journal Letters
+Kavli Institute for Astronomy and Astrophysics, Peking University
+lho.pku@gmail.com
+
+=========================================================
+Report from Referee:
+
+The results in the paper titled "Confirmation of Wide-field Signatures in Redshifted 21 cm Power Spectra Using Murchison Widefield Array Observations" are definitely exciting and worth publishing in The Astrophysical Journal. The detection of the "pitchfork" feature with new MWA data is an important result. This has implications in detecting the cosmological 21cm power spectrum. 
+
+The results in this paper are an improvement in understanding and validating the "pitchfork" feature which was first discussed in Paper-I (Thyagarajan et al. 2015) but there are structures (discussed in Section 4 of the current manuscript) "pitchfork" feature which are still not fully understood and explored. Moreover, the authors mention that there are strong implications of instrument designs (for the SKA and HERA) on the "pitchfork" feature and as a result on the foreground removal. However, there is only a short discussion in section 5 regarding this. General readers can only follow the discussion little bit if they first read the discussions in Paper-I (particularly section 4.3). In addition, there is no urgency in publishing this article in ApJ Letters. Hence, I will strongly recommend this paper to be considered for publication in The Astrophysical Journal (after few revisions- see below) but not in the ApJ Letters. This will also give the authors sufficient space to
+elaborate on the discussions in sections 4 & 5 which may have been limited due to space restrictions for ApJ Letters. 
+
+I would like the authors to clarify the following issues regarding this paper if it is considered for publication in The Astrophysical Journal. 
+
+1)In the abstract, the authors claim that the detection of the "pitchfork" feature with the new MWA data has strong implications on the design of the future instruments (like the SKA and HERA). However, the discussions in Section 1 and 5 hardly explain this in details. The reader has to read Paper-I (section 4.3) in order to get some hints on the effects of dipole, phased array and dish designs on this "pitchfork" feature. I would strongly urge the authors to include sufficient discussion to elaborate on this.
+
+2)In the abstract, the author refers to "The simulation which predicted....". The reference to the simulations in the Paper-I only comes much later in Section 1. In order to make things consistent, the authors should refer to Paper-I in the abstract. 
+
+3)In Figure 1 (bottom), there is no explanation given for the vertical stripes near b=50m (or k_perp=0.031). Can the authors elaborate on this? 
+
+4)In Figure 1 (middle), the power near the positive horizon limits are more than negative horizon limits. However, Figure 1 (bottom) does not show the same feature. Since the bottom figure does not include thermal noise, the features should have been more evident. I would urge the authors to clarify this. 
+
+5)The entire paper discusses the results on the new zenith data. Paper-I discusses about both zenith and off-zenith cases. Can you comment on any new off-zenith data from the MWA?
+

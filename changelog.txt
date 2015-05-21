@@ -1,3 +1,11 @@
+From 44209c8:
+============
+
+In ms.tex,
+
+(*) Address ApJL referee comments
+(*) Add new section "Impact on Instrument Design"
+
 From 84ebc81:
 ============
 

@@ -1,0 +1,34 @@
+To the referee:
+
+We thank you sincerely for the 
+
+=========================================================
+Report from Referee:
+
+The results in the paper titled "Confirmation of Wide-field Signatures in Redshifted 21 cm Power Spectra Using Murchison Widefield Array Observations" are definitely exciting and worth publishing in The Astrophysical Journal. The detection of the "pitchfork" feature with new MWA data is an important result. This has implications in detecting the cosmological 21cm power spectrum. 
+
+The results in this paper are an improvement in understanding and validating the "pitchfork" feature which was first discussed in Paper-I (Thyagarajan et al. 2015) but there are structures (discussed in Section 4 of the current manuscript) "pitchfork" feature which are still not fully understood and explored. Moreover, the authors mention that there are strong implications of instrument designs (for the SKA and HERA) on the "pitchfork" feature and as a result on the foreground removal. However, there is only a short discussion in section 5 regarding this. General readers can only follow the discussion little bit if they first read the discussions in Paper-I (particularly section 4.3). In addition, there is no urgency in publishing this article in ApJ Letters. Hence, I will strongly recommend this paper to be considered for publication in The Astrophysical Journal (after few revisions- see below) but not in the ApJ Letters. This will also give the authors sufficient space to
+elaborate on the discussions in sections 4 & 5 which may have been limited due to space restrictions for ApJ Letters. 
+
+I would like the authors to clarify the following issues regarding this paper if it is considered for publication in The Astrophysical Journal. 
+
+1)In the abstract, the authors claim that the detection of the "pitchfork" feature with the new MWA data has strong implications on the design of the future instruments (like the SKA and HERA). However, the discussions in Section 1 and 5 hardly explain this in details. The reader has to read Paper-I (section 4.3) in order to get some hints on the effects of dipole, phased array and dish designs on this "pitchfork" feature. I would strongly urge the authors to include sufficient discussion to elaborate on this.
+
+[Response] The geometric delays in the delay spectrum map to foreground locations on the sky. Since foreground contamination is most susceptible to emission near the horizon delay limits, the beam response near the horizon can play a role in controling this contamination. In paper-I, we showed that a dish can mitigate contamination in the EoR window by a factor >100 and >10000 relative to a MWA phased array and a dipole respectively. A dish can also increase the possibility of accessing k-modes inside the foreground wedge and not just outside. We provide a few insights on the nature of the beams under consideration for SKA and HERA but a thorough study is required to quantify the expected foreground contamination. We however note in the Summary section that we are involved in a foreground contamination forecast for HERA as follow up. We have now inserted a dedicated section on "Impact on instrument design" that provides the intuition on why the horizon response inferred from the delay spectrum idea is important for instrument design. Here we briefly note the relevant findings from paper-I for the convenience of the reader.
+
+2)In the abstract, the author refers to "The simulation which predicted....". The reference to the simulations in the Paper-I only comes much later in Section 1. In order to make things consistent, the authors should refer to Paper-I in the abstract.
+
+[Response] We have inserted "our recent paper" to refer to the "simulation which predicted..." in the abstract.
+
+3)In Figure 1 (bottom), there is no explanation given for the vertical stripes near b=50m (or k_perp=0.031). Can the authors elaborate on this?
+
+[Response] These vertical stripes are a result of the spillover from the marginally brightened arm near the negative horizon limit for eastward baselines of lengths < 125 m. And this feature is caused by the Galactic center which is just about to set in the west. These vertical stripes are close to the noise level of 100 K^2 (Mpc/h)^3. And they are identified in the averaged data as well. The third paragraph in section 4 of the new draft discusses this point.
+
+4)In Figure 1 (middle), the power near the positive horizon limits are more than negative horizon limits. However, Figure 1 (bottom) does not show the same feature. Since the bottom figure does not include thermal noise, the features should have been more evident. I would urge the authors to clarify this.
+
+[Response] We agree this is actually seen in both figures 1 and 2. We attribute this to uncertainties in input foreground model (specially the spectral indices) and the antenna power pattern especially near the horizon. These are significant and were duly noted in Paper I. These currently limit a precise quantitative comparison, but our models are very useful guides qualitatively. In fact, we believe this adds more emphasis on a point we have already made in both papers - to characterize antenna beams accurately all the way to the horizon and have an all-sky foreground survey matching the frequency and angular resolution of the observations. We have expanded the discussion a little more on this issue in the penultimate paragraph of section 4 in the new draft.
+
+5)The entire paper discusses the results on the new zenith data. Paper-I discusses about both zenith and off-zenith cases. Can you comment on any new off-zenith data from the MWA?
+
+[Response] Off-zenith data containing the Galactic center in Paper~I was useful in demonstrating the mapping between delay spectra and sky locations, establishing primary causes of foreground contamination, and devising a technique for mitigating foreground contamination. Pitchfork signatures which result from low-level ubiquitous diffuse emission are fainter. Since Galactic plane emission, even from directions far away from the primary field of view, can potentially swamp the fainter pitchfork signatures, zenith pointings which have a maximum avoidance of the Galactic plane are preferred for this study. This has been added at the beginning of our data description in Section 3 in the new draft.
+
