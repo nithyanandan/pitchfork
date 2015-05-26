@@ -1,3 +1,11 @@
+From 3349de2:
+============
+
+In ms.tex,
+
+(*) Modify Abstract
+(*) Modify Title
+
 From 44209c8:
 ============
 
