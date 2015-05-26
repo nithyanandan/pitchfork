@@ -1,3 +1,10 @@
+From b9b3559:
+============
+
+In ms.tex,
+
+(*) Modify comment on usage of off-zenith pointing in Section 3
+
 From 3349de2:
 ============
 
