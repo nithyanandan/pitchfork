@@ -1,3 +1,10 @@
+From 38cd004:
+============
+
+In ms.tex,
+
+(*) Minor change to HERA info in Sections 5 and 6
+
 From b9b3559:
 ============
 
