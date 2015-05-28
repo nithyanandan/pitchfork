@@ -1,3 +1,11 @@
+From acb28a1:
+============
+
+In ms.tex,
+
+(*) Change "previous" and "earlier" study to Paper I
+(*) Minor changes in Abstract
+
 From 38cd004:
 ============
 
