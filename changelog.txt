@@ -1,3 +1,10 @@
+From bc89703:
+============
+
+In ms.tex,
+
+(*) Modify Abstract
+
 From f6de6ce:
 ============
 
