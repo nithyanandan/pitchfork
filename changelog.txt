@@ -1,3 +1,12 @@
+From f6de6ce:
+============
+
+In ms.tex,
+
+(*) Modify Section 5 to emphasize the need for detailed study of
+coupling between beam response near horizon and foreground
+contamination
+
 From acb28a1:
 ============
 
