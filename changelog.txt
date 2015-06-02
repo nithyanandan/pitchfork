@@ -1,3 +1,19 @@
+From e734511:
+============
+
+In eor.bib,
+
+(*) Add citation to Neben et al.(2015)
+(*) Add citation to Wayth et al.(2015)
+
+In ms.tex,
+
+(*) Make changes suggested by Judd
+(*) Make changes suggested by Danny
+(*) Use updated contents of ms.bbl according to changes in eor.bib
+above
+(*) Emphasize increase in likelihood of signal detection in 3D k-space
+
 From bc89703:
 ============
 
