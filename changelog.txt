@@ -1,3 +1,18 @@
+From 2fd11fe:
+============
+
+In eor.bib,
+
+(*) Add reference to Dillon et al.(2015)
+
+In ms.tex,
+
+(*) Modify Abstract and Sections 5 and 6 to be specific about
+implications for antenna design
+(*) Add a paragraph to emphasize optimum power spectrum estimation
+techniques must take the wide-field "pitchfork" into account
+(*) Insert updated .bbl file contents in bibliography
+
 From e734511:
 ============
 
