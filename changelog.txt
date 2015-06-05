@@ -1,3 +1,17 @@
+From 7e21d9e:
+============
+
+In response_to_ApJL_referee_report_1.txt,
+
+(*) Update overall and specific responses to the referee report
+
+In ms.tex,
+
+(*) Fix minor typo in Abstract
+(*) Minor change in wording in Introduction
+(*) Minor change in hyphenation in Section 4
+(*) Minor change in wording in Section 4
+
 From 29fc971:
 ============
 
