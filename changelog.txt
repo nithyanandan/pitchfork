@@ -1,3 +1,12 @@
+From 29fc971:
+============
+
+In ms.tex,
+
+(*) Minor changes in Introduction
+(*) Minor changes to Section 3
+(*) Minor changes to Section 5
+
 From eea4f3e:
 ============
 
