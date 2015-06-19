@@ -1,3 +1,11 @@
+From 818eb76:
+============
+
+In ms.tex,
+
+(*) Remove some commented blocks
+(*) Remove commented authors
+
 From 7e21d9e:
 ============
 
