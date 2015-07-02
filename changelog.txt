@@ -1,3 +1,12 @@
+From 818eb76:
+============
+
+Add ApJL_proof_corrections.txt containing proof corrections to git
+
+In ms.tex,
+
+(*) Make proof corrections
+
 From 7e21d9e:
 ============
 

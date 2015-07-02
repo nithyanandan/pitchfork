@@ -1,0 +1,15 @@
+The changes in the uncorrected proof are mostly acceptable except at the few places described below. If these changes are clear and get incorporated, there is no need for further proof verification. Otherwise, please do not hesitate to contact me for clarification.
+
+(*) In the last paragraph of section 3, a change, namely, "a zenith" has been made. It should be reverted back to "zenith" after removing the article "a".
+
+(*) In the third paragraph of section 4, the unit of meters "m" appearing after 125 should not be split to another line. In other words, "125 m" should be together and not split between lines.
+
+(*) Near the end of fourth paragraph in section 4, the hyphen in "band-edge" must be removed.
+
+(*) Near the end of caption to figure 1, the hyphen in "band-edge" must be removed.
+
+(*) In the caption of figure 1, the word "the" appears italicized in "the y-axis". Instead it should appear in normal font.
+
+(*) Words like top, middle and bottom in caption of figure 1 have remained italicized whereas the same under figure 2 are not.
+
+Response to Q1: The only reference without a blue or purple link is that of a book by Thompson et al. I have verified this reference to be accurate.
